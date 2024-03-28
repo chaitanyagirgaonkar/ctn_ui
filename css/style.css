@@ -1,0 +1,13 @@
+
+/* css for color gradient */
+.text-gradient {
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+  }
+ 
+  
+  body {
+    font-family: 'Poppins', sans-serif;
+    overflow-x: hidden
+}  
